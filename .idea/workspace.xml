@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc9803de-0151-4cd8-9adb-25a934d4faf8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +57,8 @@
       <workItem from="1674389231193" duration="734000" />
       <workItem from="1674389982194" duration="816000" />
       <workItem from="1674390816036" duration="1166000" />
-      <workItem from="1674640964999" duration="3301000" />
+      <workItem from="1674640964999" duration="3898000" />
+      <workItem from="1674669317051" duration="591000" />
     </task>
     <servers />
   </component>
