@@ -29,10 +29,10 @@ body {
     cursor: pointer;
     font-weight: bold;
 }
-:hover.number {
+:hover.item-number {
     background-color: #96c4d9;
 }
-.number  {
+.item-number  {
     background-color: #B3E5FC;
 }
 
@@ -51,29 +51,29 @@ input {
     grid-column: 1/-1;
     padding: 0;
 }
-:hover.clean {
+:hover.item-clean {
     background-color: #9b3737;
 }
-.clean {
+.item-clean {
     grid-column: 1/3;
     background-color: #c54747;
     color: #000;
 
 }
-:hover.back {
+:hover.item-back {
     background-color: #c75a5a;
 }
-.back {
+.item-back {
     grid-column: 3/-1;
     background-color: #ff7373;
     color: #000;
 }
 
-:hover.equal {
+:hover.item-equal {
     background-color: #026aa3;
 }
 
-.equal {
+.item-equal {
     grid-column: 4;
     grid-row: 6/8;
     background-color: #0288d1;
